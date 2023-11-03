@@ -10,6 +10,8 @@
         height="130">
 </p>
 
+<p align="center">Runa</p>
+
 ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 
 [custom badges]: https://img.shields.io/badges/static-badge
