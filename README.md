@@ -5,6 +5,11 @@
 
 [vscode]: https://github.com/Microsoft/vscode
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
+        height="130">
+</p>
+
 ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 
 [custom badges]: https://img.shields.io/badges/static-badge
